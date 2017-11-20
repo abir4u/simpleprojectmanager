@@ -16,5 +16,4 @@ Steps:
 6. Go back to Terminal/Command Prompt and 'cd' into your project folder
 7. Run the command 'npm start'
 
-Once the application is built, it should look like this:
-![Alt text](/relative/path/to/App_Screenshot.png?raw=true "Optional Title")
+Once the application is built, it should look like ![this image](https://github.com/abir4u/simpleprojectmanager/blob/master/App_Screenshot.png?raw=true "Optional Title")
