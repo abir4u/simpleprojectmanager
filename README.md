@@ -4,7 +4,7 @@ This is a simple POC using React.js where I can add/delete a set of projects sto
 
 To make this project work, the following steps must be followed:
 
-## Prerqeuisites:
+## Prereqeuisites:
 Have NodeJS and NPM installed in your machine by downloading it from nodejs.org
 
 ## Steps:
