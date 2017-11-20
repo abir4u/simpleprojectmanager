@@ -26,11 +26,11 @@ There are two functionalities that you can perform on this app:
 2. Delete existing App details
 3. Display error message
 
-### Add details of a new App
+#### Add details of a new App
 To add details of a new app, type in a title in the 'Title' field and choose an app category from 'Category' field and click on 'Submit' button. The details will get added below the list of App details available.
 
-### Delete existing App details
+#### Delete existing App details
 To delete an existing App details, click the 'Remove' button corresponding to the details you want to delete.
 
-### Display error message
+#### Display error message
 If you click on Submit without filling up the 'Title' field, you will receive an alert saying 'Title is missing'.
